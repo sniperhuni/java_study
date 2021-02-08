@@ -1,0 +1,3 @@
+Compile: javac filename.java
+
+execution: java filename
